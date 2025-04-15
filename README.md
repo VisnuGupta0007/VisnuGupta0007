@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VisnuGupta0007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+🌱 I'm currently focused on learning coding and building web development projects.
+    I enjoy creating interactive user interfaces and improving my skills through hands-on practice.✨
 
 
 <!---
