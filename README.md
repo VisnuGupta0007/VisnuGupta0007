@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @VisnuGupta0007
-🌱 I'm currently focused on learning coding and building web development projects.
-    I enjoy creating interactive user interfaces and improving my skills through hands-on practice.✨
+- 👋 Hi, I’m Visnu Gupta
+Frontend Developer passionate about building clean, responsive, and user-focused web interfaces. Skilled in HTML, CSS, JavaScript, and React, with hands-on experience creating modern landing pages, dashboards, component-based UIs, and interactive features. I enjoy turning ideas into functional designs and continuously improving my craft through real-world projects.
+I’m actively seeking opportunities as a Frontend Developer where I can learn, grow, and contribute to a team that values creativity, performance, and great user experience.
 
 
 <!---
